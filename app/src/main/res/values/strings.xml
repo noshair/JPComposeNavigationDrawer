@@ -2,4 +2,6 @@
     <string name="app_name">JPComposeNavigationDrawer</string>
     <string name="home">Home</string>
     <string name="settings">Settings</string>
+    <string name="profile">profile</string>
+    <string name="friends_list">friendslist</string>
 </resources>
